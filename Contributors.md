@@ -3998,6 +3998,7 @@ Noam Taub
 - [Ixax Tavarez](https://github.com/ixaxtav)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
+- [José Leonardo](https://github.com/LeoDKVT)
 - [Jonathan Seubert](https://github.com/finisher1017)
 - [ananas](https://github.com/ananas99)
 - Solomon Yakubov
